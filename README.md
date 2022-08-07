@@ -23,3 +23,11 @@ Faster RCNN / SSD / YOLO 비교
 <br/>
 
 https://github.com/sejongresearch/FlowerClassification/issues/18
+
+<br/>
+
+InceptionResNet 설명
+
+<br/>
+
+https://medium.com/@zahraelhamraoui1997/inceptionresnetv2-simple-introduction-9a2000edcdb6
