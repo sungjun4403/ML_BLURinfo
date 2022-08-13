@@ -39,3 +39,11 @@ InceptionResNet 설명
 <br/>
 
 https://medium.com/@zahraelhamraoui1997/inceptionresnetv2-simple-introduction-9a2000edcdb6
+
+<br/>
+
+CNN 기본 원리 설명 (합성곱부터)
+
+<br/>
+
+http://taewan.kim/post/cnn/#7-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C
