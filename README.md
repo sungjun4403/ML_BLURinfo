@@ -62,3 +62,11 @@ https://ctkim.tistory.com/91
 
 <br/>
 
+ResNet
+
+<br/>
+
+https://wikidocs.net/137252
+
+<br/>
+
