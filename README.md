@@ -8,6 +8,8 @@
 
 <a href = "https://colab.research.google.com/drive/1qm5c9zf-13LGtQDa4vJ8459K_HE60SH3?usp=sharing"> 🖥️ 코드</a> 
 
+<a href = ""> 📑 이슈, 개선할 점</a> 
+
 </br>
 
 프로젝트 목적 : __번호판, 얼굴 모자이크__ 
