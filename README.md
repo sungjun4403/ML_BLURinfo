@@ -2,6 +2,12 @@
 
 </br>
 
+- <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>&nbsp;&nbsp;
+
+- <a href="https://colab.research.google.com" title="Google Colaboratory"><img src="https://user-images.githubusercontent.com/96364048/191513434-0961c768-1615-4707-a763-7dda4b4ffa7a.png" alt="Google Colaboratory" height="30px"></a>&nbsp;&nbsp;
+
+</br>
+
 <a href = "https://github.com/sungjun4403/ML_BLURinfo/blob/main/BLUR_%EC%B5%9C%EC%A2%85%EC%95%88.pdf"> 🌟 프로젝트 문서 </a>
 
 <a href = "https://github.com/sungjun4403/ML_BLURinfo/blob/main/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.md"> ⏯️ 시연 영상</a>
