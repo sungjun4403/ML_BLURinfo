@@ -39,7 +39,7 @@
 
 소스 이미지, 결과 이미지 *
 
-<img style="float:left" width="400" src="https://user-images.githubusercontent.com/96364048/191434531-a74e409a-1324-4546-84c5-7bafb69b66c1.png">'<img style="float:right" width="400" src="https://user-images.githubusercontent.com/96364048/191434545-91223e1a-aa5c-4059-b9a6-5c5af6a4d3f7.png">
+<img style="float:left" width="400" src="https://user-images.githubusercontent.com/96364048/191434531-a74e409a-1324-4546-84c5-7bafb69b66c1.png">&ensp;<img style="float:right" width="400" src="https://user-images.githubusercontent.com/96364048/191434545-91223e1a-aa5c-4059-b9a6-5c5af6a4d3f7.png">
 
 </br>
 
