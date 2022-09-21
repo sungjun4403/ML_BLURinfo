@@ -10,7 +10,7 @@
 
 <br/>
 
-번호판 인식
+⭐번호판 인식
 - https://github.com/ChaminLee/2019.10.28-Extracting-Car-Numbers-with-OpenCV/blob/master/extract%20car%20number%20in%20well-done%20image.ipynb
 
 <br/>
