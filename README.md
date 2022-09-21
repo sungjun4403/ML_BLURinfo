@@ -1,5 +1,13 @@
 <h2> Machine Learning Blurring sensitive Information </h2>
 
+
+
+----
+
+<br/>
+
+<h3>참고</h3>
+
 <br/>
 
 번호판 인식
