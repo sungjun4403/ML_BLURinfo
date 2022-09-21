@@ -1,6 +1,6 @@
 <h1> Blurring sensitive Information 🚗🙎</h1>
 
-<a href = "">🌟프로젝트 문서 </a>
+<a href = "https://github.com/sungjun4403/ML_BLURinfo/blob/main/BLUR_%EC%B5%9C%EC%A2%85%EC%95%88.pdf">🌟프로젝트 문서 </a>
 
 ----
 
