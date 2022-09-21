@@ -5,6 +5,7 @@
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>&nbsp;&nbsp;
 
 - <a href="https://colab.research.google.com" title="Google Colaboratory"><img src="https://user-images.githubusercontent.com/96364048/191513434-0961c768-1615-4707-a763-7dda4b4ffa7a.png" alt="Google Colaboratory" height="30px"></a>&nbsp;&nbsp;
+<a href="https://www.google.com/drive/" title="Google Drive"><img src="https://user-images.githubusercontent.com/96364048/191513979-da4616a5-bd00-4050-8691-fa2a6dfd7372.png" alt="Google Drive" height="30px"></a>&nbsp;&nbsp;
 
 </br>
 
