@@ -2,12 +2,6 @@
 
 </br>
 
-소스 이미지, 결과 이미지 *
-
-<img style="float:left" width="400" src="https://user-images.githubusercontent.com/96364048/191434531-a74e409a-1324-4546-84c5-7bafb69b66c1.png">'<img style="float:right" width="400" src="https://user-images.githubusercontent.com/96364048/191434545-91223e1a-aa5c-4059-b9a6-5c5af6a4d3f7.png">
-
-</br>
-
 <a href = "https://github.com/sungjun4403/ML_BLURinfo/blob/main/BLUR_%EC%B5%9C%EC%A2%85%EC%95%88.pdf"> 🌟 프로젝트 문서 </a>
 
 <a href = "https://github.com/sungjun4403/ML_BLURinfo/blob/main/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.md"> ⏯️ 시연 영상</a>
@@ -25,6 +19,18 @@
 번호판 인식 : 자동차 인식 결과에서 연속적인 문자 비율 감지
 
 얼굴 인식 : 사람 인식 결과에서 상단 30% 추출 
+
+</br>
+
+
+
+<img width="1100" src="https://user-images.githubusercontent.com/96364048/191471682-f6513498-34df-42e5-8823-7b16c031c188.png">
+
+</br>
+
+소스 이미지, 결과 이미지 *
+
+<img style="float:left" width="500" src="https://user-images.githubusercontent.com/96364048/191434531-a74e409a-1324-4546-84c5-7bafb69b66c1.png">'<img style="float:right" width="500" src="https://user-images.githubusercontent.com/96364048/191434545-91223e1a-aa5c-4059-b9a6-5c5af6a4d3f7.png">
 
 </br>
 
