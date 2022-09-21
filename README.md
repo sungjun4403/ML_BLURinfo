@@ -1,4 +1,4 @@
-<h1> Blurring sensitive Information 🚗🙎</h1>
+<h1> Blurring sensitive Information 🚗🙎 </h1> 
 
 </br>
 
